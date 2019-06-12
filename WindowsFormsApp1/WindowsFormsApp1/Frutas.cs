@@ -8,6 +8,8 @@ namespace WindowsFormsApp1
 {
     class Frutas
     {
-        public String Nome { set; get; }
+        public String Fruta { set; get; }
+        public String Cor { set; get; }
+        public String Vitamina { set; get; }
     }
 }
